@@ -1,1 +1,2 @@
 # python-challenge
+This project analyzes two data sets, budget_data.csv and election_data.csv, these two data sets are seperated in to the PyBank and PyPoll directories respectively and the file structure is symetrical. Under each directory there is main.py, and two folders Resources and Analysis, main.py loads the csv in the Resources folder and performs descriptive statistics which are then outputed to the console and a text file in the Analysis folder.
